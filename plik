@@ -1,0 +1,62 @@
+ <div class=" row row-cols-1 row-cols-md-5 g-4">
+            <div class="col">
+              <div class="card h-100">
+                <img src="./img/team/team/adult-2449725_1920.jpg" class="card-img-top" alt="Nasz szef który siedzi odchylony w uśmiechając się.">
+                <div class="card-body">
+                  <h5 class="card-title">ceo</h5>
+                  <p class="card-text">Szef szefów. Najbardziej łebski gość w firmie który zawsze zna rozwiązanie każdego problemu.</p>
+                </div>
+                <div class="card-footer d-flex justify-content-around text-primary">
+                <a href="#"><i class="fab fa-facebook-f"></i></a><a href="#"><i class="fab fa-twitter"></i></a><a href="#"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100">
+                <img src="./img/team/team/woman-1320810_1920.jpg" class="card-img-top" alt="./img/team/team/woman-1320810_1920.jpg">
+                <div class="card-body">
+                  <h5 class="card-title">hr</h5>
+                  <p class="card-text">Kasia zajmuje się rekrutacją oraz dbaniem o wzajemne relacje i atmosferę w pracy.</p>
+                </div>
+                <div class="card-footer d-flex justify-content-around text-primary">
+                <a href="#"><i class="fab fa-facebook-f"></i></a><a href="#"><i class="fab fa-twitter"></i></a><a href="#"><i class="fab fa-linkedin-in"></i></a>
+                 </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100">
+                <img src="./img/team/team/building-2762241_1920.jpg" class="card-img-top" alt="Zdjęcie przedstawia pana Wiesława ubranego w stój roboczy">
+                <div class="card-body">
+                  <h5 class="card-title">Grafk</h5>
+                  <p class="card-text">Pan Wiesio jest specem od gafiki z wieloletnim stażem.</p>
+                </div>
+                <div class="card-footer d-flex justify-content-around text-primary">
+                <a href="#"><i class="fab fa-facebook-f"></i></a><a href="#"><i class="fab fa-twitter"></i></a><a href="#"><i class="fab fa-linkedin-in"></i></a>
+                 </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100">
+                <img src="./img/team/team/entrepreneur-2326419_1920.jpg" class="card-img-top" alt="./img/team/team/entrepreneur-2326419_1920.jpg">
+                <div class="card-body">
+                  <h5 class="card-title">Project Manager</h5>
+                  <p class="card-text">Tomek to mistrz projektowy który dorpowadzi do końca nawet najbardziej wymagające zadanie.</p>
+                </div>
+                <div class="card-footer d-flex justify-content-around text-primary">
+                <a href="#"><i class="fab fa-facebook-f"></i></a><a href="#"><i class="fab fa-twitter"></i></a><a href="#"><i class="fab fa-linkedin-in"></i></a>
+                 </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100">
+                <img src="./img/team/team/women-1209678_1920.jpg" class="card-img-top" alt="Zdjęcie przedstawiające Asię i Basię nasze Office Managerki">
+                <div class="card-body">
+                  <h5 class="card-title">Office Management</h5>
+                  <p class="card-text">Asia i Basia dbają o nasza wspólną przestrzeń oraz o to aby niczego w niej nie zabrakło. Nikt tak nie zaplanuje i nie zorganizuje integracji jak one.</p>
+                </div>
+                <div class="card-footer d-flex justify-content-around text-primary">
+                <a href="#"><i class="fab fa-facebook-f"></i></a><a href="#"><i class="fab fa-twitter"></i></a><a href="#"><i class="fab fa-linkedin-in"></i></a>
+                 </div>
+              </div>
+            </div>
+          </div>
