@@ -309,8 +309,17 @@ header .fa-chevron-down:hover {
   font-weight: bold;
   font-size: 25px;
 }
+.prices .price-box i {
+  margin: 0 5px;
+}
+.prices .price-box p span {
+  margin: 0 5px;
+}
 .prices .price-box:hover {
   transform: scale(1.05);
+}
+.prices .price-info a {
+  text-decoration: none;
 }
 
 .team {
@@ -359,10 +368,6 @@ header .fa-chevron-down:hover {
 }
 .team .card-footer a {
   color: #fff;
-  transition: color 0.3s;
-}
-.team .card-footer a:hover {
-  color: #dc143c;
 }
 
 .achievements i {
@@ -436,6 +441,9 @@ header .fa-chevron-down:hover {
   }
 }
 @media (min-width: 375px) {
+  html {
+    scroll-padding-top: 71px;
+  }
   header h1 {
     font-size: 36px;
   }
