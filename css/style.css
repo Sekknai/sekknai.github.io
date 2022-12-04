@@ -461,7 +461,7 @@ header .fa-chevron-down:hover {
 }
 @media (min-width: 992px) {
   html {
-    scroll-padding-top: 73px;
+    scroll-padding-top: 72px;
   }
   .container .price-info .text-muted {
     font-size: 18px;
