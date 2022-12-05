@@ -551,6 +551,10 @@ color: c.$whitecolor;
     
 
     @media(min-width:1200px) {
+        
+        html{
+            scroll-padding-top: 71px;
+        }
         header {
             .header-img
             {
